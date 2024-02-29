@@ -1,2 +1,3 @@
 cout<<"Rida Umar";
 cout<<"23-set-009";
+cout<<"Sum of two values"<<a+b;
