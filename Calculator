@@ -2,3 +2,5 @@ cout<<"Rida Umar";
 cout<<"23-set-009";
 cout<<"Sum of two values"<<a+b;
 cout<<"difference of two values"<<a-b;
+cout<<"Multiply two values"<<a*b;
+cout<<"Divide two values"<<a/b;
